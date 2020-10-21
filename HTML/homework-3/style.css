@@ -1,0 +1,46 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.black {
+	margin: 10px;
+	width: 610px;
+	height: 410px;
+	background-color: #000;
+	padding: 5px;
+}
+.orange-top {
+	width: 600px;
+	height: 100px;
+	background-color: rgb(245, 89, 32);
+}
+.red {
+	width: 25%;
+	height: 200px;
+	background-color: red;
+}
+.green {
+	width: 25%;
+	height: 200px;
+	background-color: green;
+}
+.blue {
+	width: 25%;
+	height: 200px;
+	background-color: blue;
+}
+.black2 {
+	width: 25%;
+	height: 200px;
+	background-color: black;
+}
+.orange-bot {
+	width: 600px;
+	height: 100px;
+	background-color: rgb(245, 89, 32);
+	clear: both;
+}
+.float {
+	float: left;
+}
